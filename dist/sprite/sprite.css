@@ -1,0 +1,198 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-sh_05 {
+  background-image: url(sprite.jpg);
+  background-position: -1420px 0px;
+  width: 1420px;
+  height: 599px;
+}
+.icon-sh_09 {
+  background-image: url(sprite.jpg);
+  background-position: -1420px -1253px;
+  width: 334px;
+  height: 130px;
+}
+.icon-sh_19 {
+  background-image: url(sprite.jpg);
+  background-position: -1504px -808px;
+  width: 84px;
+  height: 84px;
+}
+.icon-sh_20 {
+  background-image: url(sprite.jpg);
+  background-position: -1420px -808px;
+  width: 84px;
+  height: 84px;
+}
+.icon-sh_21 {
+  background-image: url(sprite.jpg);
+  background-position: -1918px -808px;
+  width: 82px;
+  height: 82px;
+}
+.icon-sh_22 {
+  background-image: url(sprite.jpg);
+  background-position: -1672px -808px;
+  width: 82px;
+  height: 82px;
+}
+.icon-sh_23 {
+  background-image: url(sprite.jpg);
+  background-position: -1836px -808px;
+  width: 82px;
+  height: 82px;
+}
+.icon-sh_24 {
+  background-image: url(sprite.jpg);
+  background-position: -1754px -808px;
+  width: 82px;
+  height: 82px;
+}
+.icon-sh_25 {
+  background-image: url(sprite.jpg);
+  background-position: -1588px -808px;
+  width: 84px;
+  height: 84px;
+}
+.icon-sh_27 {
+  background-image: url(sprite.jpg);
+  background-position: -2420px -599px;
+  width: 235px;
+  height: 206px;
+}
+.icon-sh_28 {
+  background-image: url(sprite.jpg);
+  background-position: -1438px -1398px;
+  width: 235px;
+  height: 190px;
+}
+.icon-sh_29 {
+  background-image: url(sprite.jpg);
+  background-position: -231px -1821px;
+  width: 235px;
+  height: 227px;
+}
+.icon-sh_30 {
+  background-image: url(sprite.jpg);
+  background-position: -968px -1398px;
+  width: 235px;
+  height: 206px;
+}
+.icon-sh_31 {
+  background-image: url(sprite.jpg);
+  background-position: -1673px -1398px;
+  width: 235px;
+  height: 173px;
+}
+.icon-sh_32 {
+  background-image: url(sprite.jpg);
+  background-position: -1203px -1398px;
+  width: 235px;
+  height: 206px;
+}
+.icon-sh_33 {
+  background-image: url(sprite.jpg);
+  background-position: 0px -1821px;
+  width: 231px;
+  height: 316px;
+}
+.icon-sh_34 {
+  background-image: url(sprite.jpg);
+  background-position: 0px 0px;
+  width: 1420px;
+  height: 893px;
+}
+.icon-sh_45_1 {
+  background-image: url(sprite.jpg);
+  background-position: -1420px -599px;
+  width: 1000px;
+  height: 209px;
+}
+.icon-sh_45_2 {
+  background-image: url(sprite.jpg);
+  background-position: 0px -1398px;
+  width: 968px;
+  height: 209px;
+}
+.icon-sh_60 {
+  background-image: url(sprite.jpg);
+  background-position: -2655px -599px;
+  width: 185px;
+  height: 125px;
+}
+.icon-sh_61 {
+  background-image: url(sprite.jpg);
+  background-position: 0px -893px;
+  width: 1420px;
+  height: 505px;
+}
+.icon-sh_66 {
+  background-image: url(sprite.jpg);
+  background-position: 0px -1607px;
+  width: 814px;
+  height: 214px;
+}
+.icon-sh_67 {
+  background-image: url(sprite.jpg);
+  background-position: -2124px -893px;
+  width: 618px;
+  height: 348px;
+}
+.icon-sh_68 {
+  background-image: url(sprite.jpg);
+  background-position: -1754px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_69 {
+  background-image: url(sprite.jpg);
+  background-position: -1859px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_70 {
+  background-image: url(sprite.jpg);
+  background-position: -1964px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_71 {
+  background-image: url(sprite.jpg);
+  background-position: -2069px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_72 {
+  background-image: url(sprite.jpg);
+  background-position: -2174px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_73 {
+  background-image: url(sprite.jpg);
+  background-position: -2279px -1253px;
+  width: 105px;
+  height: 105px;
+}
+.icon-sh_pop {
+  background-image: url(sprite.jpg);
+  background-position: -1420px -893px;
+  width: 704px;
+  height: 360px;
+}
