@@ -1,0 +1,13 @@
+
+$nav-color: #F90;
+$border-color:red;
+$font-size: 24px;
+nav {
+  $width: 100px;
+  $height: 100px;
+  width: $width;
+  height: $height;
+  color: $nav-color;
+  border: 1px solid $border-color;
+  font-size: $font-size;
+}

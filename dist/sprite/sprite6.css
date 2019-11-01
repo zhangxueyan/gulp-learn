@@ -1,0 +1,102 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-yd03_1 {
+  background-image: url(sprite6.png);
+  background-position: -101px 0px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_2 {
+  background-image: url(sprite6.png);
+  background-position: -31px -400px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_3 {
+  background-image: url(sprite6.png);
+  background-position: -101px -60px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_4 {
+  background-image: url(sprite6.png);
+  background-position: -101px -120px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_5 {
+  background-image: url(sprite6.png);
+  background-position: -101px -180px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_6 {
+  background-image: url(sprite6.png);
+  background-position: -31px -280px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_7 {
+  background-image: url(sprite6.png);
+  background-position: -31px -340px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_8 {
+  background-image: url(sprite6.png);
+  background-position: -101px -240px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd03_9 {
+  background-image: url(sprite6.png);
+  background-position: -31px -460px;
+  width: 60px;
+  height: 60px;
+}
+.icon-yd05 {
+  background-image: url(sprite6.png);
+  background-position: 0px 0px;
+  width: 31px;
+  height: 560px;
+}
+.icon-yd06_1 {
+  background-image: url(sprite6.png);
+  background-position: -31px -70px;
+  width: 70px;
+  height: 70px;
+}
+.icon-yd06_2 {
+  background-image: url(sprite6.png);
+  background-position: -31px -140px;
+  width: 70px;
+  height: 70px;
+}
+.icon-yd06_3 {
+  background-image: url(sprite6.png);
+  background-position: -31px -210px;
+  width: 70px;
+  height: 70px;
+}
+.icon-yd06_4 {
+  background-image: url(sprite6.png);
+  background-position: -31px 0px;
+  width: 70px;
+  height: 70px;
+}
